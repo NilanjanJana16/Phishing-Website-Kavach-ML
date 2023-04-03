@@ -76,9 +76,20 @@ Then copy the below command in the terminal and run to install the requirements 
 ```
 After installing the requirements run 
 ```bash
-    python app.py
+   python app.py
 ```
 
 
+## Images
 
     
+    ![raksh](https://user-images.githubusercontent.com/96487546/229447038-5725e5a0-eee2-416c-ba49-39bcadb53b53.jpg)
+    
+    
+    ![flask api js css](https://user-images.githubusercontent.com/96487546/229447132-6e492b2d-d69e-43bc-8be2-c5b1b2ed743a.jpg)   
+    
+    
+    ![bbce4c45-3292-4361-959c-5028e3f8d8d0](https://user-images.githubusercontent.com/96487546/229447203-f2c2e019-5fac-4aff-8874-bba1639e6ae8.jpg)
+    
+    
+    ![extension](https://user-images.githubusercontent.com/96487546/229447247-286e3da6-847e-475d-861d-7ba433e196f9.jpg)
