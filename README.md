@@ -66,6 +66,9 @@ The model achieved the following performance metrics on the test set:
     Accuracy: 97.4%
     Precision: 98.6%
     Recall: 99.4%
+    
+  ![Screenshot 2023-04-03 133101](https://user-images.githubusercontent.com/96487546/229448050-4bc5f64b-c44f-4c30-9aac-63215285d114.png)
+  
 ## Installation
 
 Downlaod the Github repo. 
@@ -93,3 +96,4 @@ After installing the requirements run
     
     
    ![extension](https://user-images.githubusercontent.com/96487546/229447247-286e3da6-847e-475d-861d-7ba433e196f9.jpg)
+
